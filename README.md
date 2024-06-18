@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ##
-![Hacking](https://media.giphy.com/media/3o6Zt7pOdNPXDBsgdG/giphy.gif)
+![Hacking](https://i.imgur.com/LQ2a8yi.gif)
+
 
 
 ## Tecnologías:
