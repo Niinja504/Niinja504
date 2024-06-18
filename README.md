@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
 ![Tor](https://img.shields.io/badge/-Tor-333333?style=flat&logo=tor-browser)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
