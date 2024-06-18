@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burp-suite)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
