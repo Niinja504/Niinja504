@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux)
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-333333?style=flat&logo=hack-the-box)
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niinja504&layout=compact&theme=dark)
