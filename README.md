@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux)
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
+![Autopsy](https://img.shields.io/badge/-Autopsy-333333?style=flat&logo=autopsy)
+![FTK](https://img.shields.io/badge/-FTK-333333?style=flat&logo=ftk)
 
