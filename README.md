@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-![Hacking](https://i.imgur.com/LQ2a8yi.gif)
+![Hacking](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJobjF4NjZkYTRyYWFsMGIwcW4wZDI3bDNzYXc0a2N6cHZwajNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
 
 
 
