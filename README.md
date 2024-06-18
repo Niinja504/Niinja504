@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burp-suite)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
+
