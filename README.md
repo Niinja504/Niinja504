@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
 
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+
