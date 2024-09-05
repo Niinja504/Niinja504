@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## Tecnologías:
+## technologies:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
