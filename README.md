@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##
 ![Hacking](https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=790b76118cccz44b83l4p0c7t7sdz5ztkd2cdl99x8pvfz55&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-## Technologies:
+## Tecnologías:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
