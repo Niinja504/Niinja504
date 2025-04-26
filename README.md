@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## ⏳ Tiempo dedicado a lenguajes (estimado)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tu_usuario_wakatime&layout=compact&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=_wakatime&layout=compact&theme=dark)
 
 *Nota: Para este widget necesitas tener una cuenta en [WakaTime](https://wakatime.com/) y conectar tus editores para que registre tu tiempo de codificación.*
 
