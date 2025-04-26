@@ -70,10 +70,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Cómo contactarme
-
-- Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
-- LinkedIn: [tu perfil](https://linkedin.com/in/tu_usuario)
-- Email: tu.email@ejemplo.com
+- LinkedIn: 
+- Email: 
 
 ---
 
