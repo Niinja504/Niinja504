@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-333333?style=flat&logo=hack-the-box)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia&logoColor=white)
 
 ---
 
